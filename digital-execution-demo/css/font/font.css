@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'FatFrank-Free';
+  src: url('FatFrank-Free.eot');
+  src: url('FatFrank-Free.woff2') format('woff2'),
+       url('FatFrank-Free.woff') format('woff'),
+       url('FatFrank-Free.ttf') format('truetype'),
+       url('FatFrank-Free.svg#FatFrank-Free') format('svg'),
+       url('FatFrank-Free.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
